@@ -1,51 +1,87 @@
 ---
 layout: page
-title: About Anudit Verma
-only-about-me: About me
-subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
+title: About me
+readtime: true
 ---
 
-<div id="aboutme-section">
+![IMG_3036](https://user-images.githubusercontent.com/31467068/82867991-c2172a00-9f66-11ea-9948-b0757fbcb0e8.jpg)
 
-<p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer living in Long Beach, California, US.
-</p>
+## EDUCATION BACKGROUND <br/>  
 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science & Engineering from University School of Information, Communication & Technology in New Delhi, India. I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University Long Beach.
-</p>
-
-<p class="about-text">
-<span class="fa fa-code about-icon"></span>
-I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
-</p>
-
-<p class="about-text">
-<span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/year_in_books/2018/82771249">here</a>. Make sure to add some of them in your future reading list.
-</p>
-
-<p class="about-text">
-<span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music and occasional cooking. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.
-</p>
-
-<p class="about-text">
-<span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab something awesome in the world of open-source tech. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
-</p>
+**Master and Ph.D. in TOHOKU UNIVERSITY	- (October 2015 – present)** <br/>
+* **Major**: Interdisciplinary Studies of Civil and Environmental Science <br/>
+* **Research themes**: Research on the investigation of Strength performance of Geopolymer-based Modified Sludge desingning by DOE statistical theory under several conditions, propose the process for in-situ utilization,  and building the prediction model for further application.
 
 
-<center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
-<br>
+**Bachelor  BACH KHOA UNIVERSITY	(October 2015 – September 2017)** <br/>
+* **Major**: Civil Engineering Materials <br/>
+* **Research themes**: Research on the Adhensive material for AAC Concrete
 
-Oh, and one more thing, if you are wondering about the meaning of my name, well...
-<br><br>
-<center><img src="/img/anudit-meaning.png"></center>
-<br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
+&nbsp;
+&nbsp;
+## WORK EXPERIENCE <br/>
+
+**D.A.Consortium Inc. - (Jan 2020 – May 2020)**<br/>
+**Advertisement NLP Analyst Internship** 
+* Sentiment analysis: Obtained raw discussions from websites, conducted sentiment analysis to track weekly popular topics and trend in South Asian markets.
+* Apply BERT model to summarize Japanese articles and classify writers’ emotion towards specific category or product and use this to optimize the user's advertising experience.
+* Achievement: The model developed by me was used as a part of standardized process in Multiple Correspondence Analysis to apply in other categories to support the company exploration to other industries.
+
+&nbsp;
+
+**Mitsubishi Fuso Truck and Bus Corporation - (Jan 2020 – May 2020)** <br/>
+**Quality management data scientist internship**
+* Warranty cost optimazation: analyzing warranty claim data from several sources, extracting relevant features to predict the risk of damage in real time application.
+* Clustering vehicle into groups with similar claim pattern to develop further relevant solutions and optimize the penlty cost in total.
+
+&nbsp;
+
+**Nagecco Joint Stock Company - (Feb 2019)** <br/>
+**Technical Internship**
+* Intern and learn the environment working of consultants company
+* Practiced and discussed with the member in Structure center No.1 such as how they can investigate, analysis, consult the construction project.
+* Learned the whole process of the design construction project with professional technical staff.
+
+&nbsp;
+
+**Vuong Hai Distribution Corporation - (Apr 2014 – Mar 2015)** <br/>
+**Technical Researcher**
+* Autoclaved Aerated Concrete Product: conducted research on adhesive material for Autoclaved Aerated Concrete, examined the new method and proposed the application of new material in the process to reduce the production overall price of 10%.
+* Applying Gradient-boosting trees to forecast product demand
+* Achievement: Contributed to the success development of new material which was later on launched on the market.
+
+**Marketing Support Specialist Internship** <br/>
+* Market research and development: acquired and applied the knowledge of practical market analysis; supported the market expansion of the new product launch to more than 100 small retailers in Ho Chi Minh city.
+* Achievement: after the trial period, 25% of retailers agreed to sign long-term contract with the company.
+
+&nbsp;
+
+**Wacker Chemical (South Asia) - (Sep 2014 – Mar 2015)** <br/>
+**Technical Researcher**
+* Supported business decision in launching the new adhesive, waterproof materials in Viet Nam market through classifying the behavior of the worker and conductors by Random forest model to develop relevant Go-to-market plan for target group.
+* Achievement: to reduce 15% of waste and 10% of cost in final product.
+
+&nbsp;
+&nbsp;
+
+## AWARD, CERTIFICATION AND LANGUAGE SKILL
+**AWARD**<br/>
+* A beneficiary of Japanese Government MEXT Scholarship for Research  student from October 2015 to September 2020
+
+**CERTIFICATION**<br/>
+* Data Scientist with Python (DataCamp); Neural network and Deep learning (Coursera); Machine learning – Stanford University
+
+**TECHNICAL SKILL** <br/>
+* **Python, MySQL**: EDA, Supervised, Unsupervised, Deep learning, Data visualization, Feature transform and extraction <br/>
+* **Microsoft Excel, Word, Powerpoint**: Proficient <br/>
+* **Octave, Matlab**: Data structure, Applied mathematic algorithm <br/>
+* **Javascript**: Principal knowledge <br/>
+
+**LANGUAGE** <br/>
+* **English**:    Fluent level (TOIEC 850) <br/>
+* **Japanese**:      N3 <br/>
+* **Vietnamese**:  Native level <br/>
+
+
+You can freely contact me by **[Linkedin](https://www.linkedin.com/in/vumichien)**
+

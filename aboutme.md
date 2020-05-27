@@ -83,5 +83,3 @@ readtime: true
 * **Vietnamese**:  Native level <br/>
 
 
-You can freely contact me by **[Linkedin](https://www.linkedin.com/in/vumichien)**
-
